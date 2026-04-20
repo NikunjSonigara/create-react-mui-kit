@@ -4,7 +4,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/create-react-mui-kit.svg)](https://www.npmjs.com/package/create-react-mui-kit)
 [![license](https://img.shields.io/npm/l/create-react-mui-kit.svg)](./LICENSE)
 
-> Create a React (Vite) app with **MUI (Material UI)** pre-integrated — zero config.
+> Create a React (Vite) app with **MUI (Material UI)**, **Emotion**, **Redux Toolkit**, and **Husky** pre-integrated — zero config.
 
 One command: a fresh Vite + React project, MUI + Emotion installed, a theme wired up, `<ThemeProvider>` and `<CssBaseline />` already around your `<App />`, path aliases configured, and your favorite MUI add-ons pre-installed.
 
